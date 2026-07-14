@@ -5,7 +5,7 @@ The document-intelligence component of the [Kiwi Sorter system](https://github.c
 inspection reports and documents, then answers grounded questions about them with
 **inline citations**, **hybrid retrieval**, and **SQL-exact analytics**.
 
-Flask · port **5001** · Python 3.11
+Flask · LangChain (FAISS vector store, loaders, splitters) · PostgreSQL · port **5001** · Python 3.11
 
 ## Features
 
